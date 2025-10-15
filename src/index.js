@@ -1,4 +1,4 @@
 
 exports.main = function(event, context) {
-  return 'Hello world!'
+  return 'Hello world! AutoMan!'
 }
